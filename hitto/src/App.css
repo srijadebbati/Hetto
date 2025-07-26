@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+.dashboard-container {
+  display: flex;
+}
+
+.main-content {
+  width: 100%;
+}
